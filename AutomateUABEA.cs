@@ -6,7 +6,7 @@ using FlaUI.Core.Input;
 using FlaUI.Core.AutomationElements;
 using System.Text.Json;
 using FlaUI.Core.Tools;
-class AutomateUABEA
+class AutomateUABEA #aaa
 {
     private readonly InputSimulator _sim;
     private readonly string _exePath;
