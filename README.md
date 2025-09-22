@@ -13,7 +13,7 @@ This script streamlines the repetitive steps of replacing unity assets. I could 
 ### Setup
 - Paste path of UABEAvalonia.exe to config.json
 
-### Run
+### Runaa
 ```bash
 dotnet restore
 dotnet run
